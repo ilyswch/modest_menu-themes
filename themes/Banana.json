@@ -1,0 +1,13 @@
+{
+  "Name" : "Banana",
+  "FontName" : "Segoe UI Semibold",
+  "ItemColor" : "003566",
+  "TextColor" : "FFFFFF",
+  "SelectedItemColor" : "FFD60A",
+  "SelectedTextColor" : "003566",
+  "BackgroundColor" : "FFD60A",
+  "TransparencyColorKey" : "000000",
+  "ItemHeight" : 25,
+  "ItemWidth" : 400,
+  "ItemSpacing" : 3
+}
