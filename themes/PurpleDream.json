@@ -1,0 +1,13 @@
+{
+  "Name" : "Purple Dream",
+  "FontName" : "Verdana",
+  "ItemColor" : "1E1E1E",
+  "TextColor" : "FFFFFF",
+  "SelectedItemColor" : "7C00FF",
+  "SelectedTextColor" : "FFFFFF",
+  "BackgroundColor" : "000000",
+  "TransparencyColorKey" : "000000",
+  "ItemHeight" : 20,
+  "ItemWidth" : 500,
+  "ItemSpacing" : 0
+}
