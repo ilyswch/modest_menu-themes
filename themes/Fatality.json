@@ -1,0 +1,13 @@
+{
+  "Name" : "Fatality",
+  "FontName" : "Josefin sans",
+  "ItemColor" : "0d091d",
+  "TextColor" : "ffffff",
+  "SelectedItemColor" : "ff0048",
+  "SelectedTextColor" : "ffffff",
+  "BackgroundColor" : "0c081b",
+  "TransparencyColorKey" : "000000",
+  "ItemHeight" : 20,
+  "ItemWidth" : 350,
+  "ItemSpacing" : 0
+}
