@@ -1,0 +1,13 @@
+{
+  "Name" : "Black Verdana",
+  "FontName" : "Verdana",
+  "ItemColor" : "0F0F0F",
+  "TextColor" : "EDEDED",
+  "SelectedItemColor" : "242424",
+  "SelectedTextColor" : "EDEDED",
+  "BackgroundColor" : "141414",
+  "TransparencyColorKey" : "000000",
+  "ItemHeight" : 20,
+  "ItemWidth" : 400,
+  "ItemSpacing" : 5
+}
