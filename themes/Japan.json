@@ -1,0 +1,13 @@
+{
+  "Name" : "Japan",
+  "FontName" : "Yu Gothic",
+  "ItemColor" : "0d091d",
+  "TextColor" : "FF748C",
+  "SelectedItemColor" : "af9ce6",
+  "SelectedTextColor" : "4B0150",
+  "BackgroundColor" : "000000",
+  "TransparencyColorKey" : "001337",
+  "ItemHeight" : 20,
+  "ItemWidth" : 350,
+  "ItemSpacing" : 0
+}
