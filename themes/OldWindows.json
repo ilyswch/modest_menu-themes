@@ -1,0 +1,13 @@
+{
+  "Name" : "OldWindows",
+  "FontName" : "MS Sans Serif",
+  "ItemColor" : "f0f0f0",
+  "TextColor" : "000000",
+  "SelectedItemColor" : "000000",
+  "SelectedTextColor" : "f0f0f0",
+  "BackgroundColor" : "000000",
+  "TransparencyColorKey" : "ffffff",
+  "ItemHeight" : 20,
+  "ItemWidth" : 310,
+  "ItemSpacing" : 1
+}
