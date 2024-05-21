@@ -1,0 +1,13 @@
+{
+  "Name" : "Vanilla White",
+  "FontName" : "Segoe UI",
+  "ItemColor" : "dce8fa",
+  "TextColor" : "212121",
+  "SelectedItemColor" : "98bdd7",
+  "SelectedTextColor" : "212121",
+  "BackgroundColor" : "dce8fa",
+  "TransparencyColorKey" : "001337",
+  "ItemHeight" : 23.5,
+  "ItemWidth" : 340,
+  "ItemSpacing" : 2
+}
