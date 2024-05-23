@@ -1,19 +1,6 @@
 {
     "CustomThemes": [
         {
-            "Name": "Name",
-            "FontName": "FontName",
-            "ItemColor": "ItemColor",
-            "TextColor": "TextColor",
-            "SelectedItemColor": "SelectedItemColor",
-            "SelectedTextColor": "SelectedTextColor",
-            "BackgroundColor": "BackgroundColor",
-            "TransparencyColorKey": "TransparencyColorKey",
-            "ItemHeight": 0,
-            "ItemWidth": 0,
-            "ItemSpacing": 0
-        },
-        {
             "Name": "Banana",
             "FontName": "Segoe UI Semibold",
             "ItemColor": "003566",
